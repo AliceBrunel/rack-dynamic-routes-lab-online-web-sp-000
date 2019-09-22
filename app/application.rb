@@ -13,6 +13,8 @@ class Application
       
       resp.write.item.price
     end
+    
+    resp.finish
  
   end
  
